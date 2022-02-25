@@ -1,0 +1,31 @@
+.video{
+	width: 40% ;
+	height: 100px ;
+}
+
+
+
+.box{
+    width:40% ;
+    height:40% ;
+
+}
+.a{
+
+	margin-top: 500px; 
+	margin-right: 250px;
+	margin-bottom: 0px;
+	margin-left: 50%;
+}
+
+
+
+.box{
+    width: 40% ;
+	height: 50% ;
+	border: 5% solid black;
+    margin-top: 500px; 
+	margin-right: 250px;
+	margin-bottom: 0px;
+	margin-left: 50%;
+}
